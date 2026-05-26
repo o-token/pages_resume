@@ -8,7 +8,7 @@
 
 ## 職務経歴
 
-### Computer Vision Engineer, Astroscale Japan
+### Senior Computer Vision Engineer, Astroscale Japan
 東京, 2023年9月 - 現在
 - 人工衛星ランデブーミッションにおいてCVシステムのリードを担当。プロジェクトに使用するセンサー・認識アルゴリズム全体の設計から運用までの責任者
 - 人工衛星のエッジ計算機向けの機械学習モデルの開発・検証を担当。実データが得られない条件における、モデル開発・検証・リスク戦略に従事

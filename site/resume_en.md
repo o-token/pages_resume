@@ -8,7 +8,7 @@ My career has focused on solving problems at the intersection of physics and inf
 
 ## Professional Experience
 
-### Computer Vision Engineer, Astroscale Japan
+### Senior Computer Vision Engineer, Astroscale Japan
 Tokyo, September 2023 - Present
 - Leading the CV system for an on-orbit satellite rendezvous mission, with end-to-end ownership of sensor and perception architecture from design through operations
 - Developing and validating machine learning models for satellite edge computers, including strategy and risk management for model development under limited real-world data conditions
