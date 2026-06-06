@@ -21,8 +21,6 @@ Tokyo, April 2019 - April 2023
 - Worked as a machine learning engineer on construction machinery automation projects, developing ROS2-based sensor drivers and perception algorithms
 - Drove R&D on applying machine learning in data-scarce domains, developing 3D graphics-based simulators and machine learning models
 
-<div class="page-break"></div>
-
 ## Skills
 
 | Category | Item | Experience and Highlights |
