@@ -1,6 +1,6 @@
 # Takayuki Yoshimura
 Based in Ichikawa, Chiba, Japan  
-[takayuki.yoshimura000@gmail.com](mailto:takayuki.yoshimura000@gmail.com) / [LinkedIn](https://www.linkedin.com/in/takayuki-yoshimura-4a7057184?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BJjMUHflLTsmt44AbgT%2BqtQ%3D%3D) / [GitHub](https://github.com/SuperSocialForce)
+[takayuki.yoshimura000@gmail.com](mailto:takayuki.yoshimura000@gmail.com) / [LinkedIn](https://www.linkedin.com/in/takayuki-yoshimura-4a7057184?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BJjMUHflLTsmt44AbgT%2BqtQ%3D%3D) / [GitHub](https://github.com/o-token)
 
 ## Professional Summary
 
