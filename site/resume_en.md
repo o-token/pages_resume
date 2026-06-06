@@ -4,22 +4,22 @@ Based in Ichikawa, Chiba, Japan
 
 ## Professional Summary
 
-My career has focused on solving problems at the intersection of physics and information technology. While I am deeply technical, I am consistently problem-driven rather than technology-driven. Depending on project needs, I have proactively taken on responsibilities close to project management and technical business development. At the same time, I bring strong technical depth and enthusiasm, especially in machine learning and simulation, where I have developed software and led projects from concept to delivery.
+Computer vision and machine learning engineer specializing in AI systems that operate in the physical world. I have worked in domains where real-world data is scarce and the cost of failure is high, including on-orbit satellite rendezvous and construction machinery automation, owning the full lifecycle from sensor and perception algorithm design through simulation-based training and validation, deployment to edge computers, and operations. My strengths include building robust perception systems by combining rule-based and learning-based approaches across visible and infrared cameras, LiDAR, 3D perception, ROS2, C++, and Python. As a technical lead and project manager, I have translated ambiguous problems into requirements and development plans and led teams of up to 10 engineers through product delivery.
 
 ## Professional Experience
 
 ### Senior Computer Vision Engineer, Astroscale Japan
 Tokyo, September 2023 - Present
-- Leading the CV system for an on-orbit satellite rendezvous mission, with end-to-end ownership of sensor and perception architecture from design through operations
-- Developing and validating machine learning models for satellite edge computers, including strategy and risk management for model development under limited real-world data conditions
-- Driving PoC and pipeline development for 3D reconstruction in highly challenging orbital imaging environments, including technology selection and accuracy evaluation
-- Building sensor simulators in Unreal Engine for visible, infrared, and LiDAR sensors, used for both verification and training data generation
+- Lead the CV system for an on-orbit satellite rendezvous mission, overseeing the end-to-end design and operations of sensor and perception algorithms
+- Drive the development and validation of machine learning models for satellite edge computers, defining development and validation approaches and risk mitigation strategies where real-world data cannot be collected
+- Drive PoC and pipeline development for 3D reconstruction under challenging orbital imaging conditions, including technology selection, accuracy evaluation, and pipeline implementation
+- Develop sensor simulators in Unreal Engine for visible cameras, infrared cameras, and LiDAR, supporting verification and training data generation
 
 ### Machine Learning Engineer, DeepX Inc.
 Tokyo, April 2019 - April 2023
-- Launched an ML-powered automated inspection product as project manager, leading a development team of up to 10 engineers while also handling customer interviews and requirement definition
-- Contributed as an ML engineer to construction machinery automation projects, developing ROS2-based sensor drivers and perception algorithms
-- Conducted R&D on ML applications in data-scarce domains, covering both 3D graphics-based simulator development and model development
+- Launched an ML-powered automated inspection product as project manager, leading customer interviews and requirements definition while managing a development team of up to 10 engineers
+- Worked as a machine learning engineer on construction machinery automation projects, developing ROS2-based sensor drivers and perception algorithms
+- Drove R&D on applying machine learning in data-scarce domains, developing 3D graphics-based simulators and machine learning models
 
 <div class="page-break"></div>
 
